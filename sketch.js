@@ -84,7 +84,6 @@ function draw() {
       //playSound("jump.mp3");
       gameState = END;
       
-      //playSound("die.mp3");
     }
   }
   
